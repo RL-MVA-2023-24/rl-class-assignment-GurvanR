@@ -1,6 +1,6 @@
 from gymnasium.wrappers import TimeLimit
 from env_hiv import HIVPatient
-from tqdm import tqdm
+#from tqdm import tqdm
 
 import numpy as np
 import random
